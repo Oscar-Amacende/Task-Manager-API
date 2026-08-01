@@ -40,3 +40,7 @@
 ## Vista de la API en /docs
 
 ![swagger](images/TaskAPI.png)
+
+## Vista de los métodos GET/POST
+
+![swagger](images/GetPost.png)
