@@ -36,3 +36,5 @@
     pip imstall sqlalchemy
     
 ```
+## Vista de la API 
+![![APIview](/TaskManager/images/TaskAPI.png)]
