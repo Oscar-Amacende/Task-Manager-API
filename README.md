@@ -15,11 +15,11 @@
 ## Instalación
 
 ```bash
-git clone https://github.com/Oscar-Amacende/taskito.git
+    git clone https://github.com/Oscar-Amacende/taskito.git
 
-cd taskito
+    cd taskito
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 ```
 
 ***
