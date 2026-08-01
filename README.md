@@ -33,7 +33,10 @@
 
 ```python
     pip install "fastapi[standard]"
-    pip imstall sqlalchemy
+    pip install sqlalchemy
     
 ```
+
+## Vista de la API en /docs
+
 ![swagger](images/TaskAPI.png)
