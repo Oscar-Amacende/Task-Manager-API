@@ -10,7 +10,7 @@ from sqlalchemy.orm import sessionmaker, Session
 #Import fecha y API
 #pip install "fastapi[standard]"
 #pip install sqlalchemy
-#python3-64.exe .\Taskito.py asi ejecutamos
+#python3-64.exe .\Taskito.py 
 #http://127.0.0.1:8000/docs Para probar las funciones de nuestra API
 app = FastAPI(title="Oscar-Amacende Task Manager API")
 

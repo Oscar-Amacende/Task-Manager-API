@@ -1,9 +1,6 @@
 # -- Autor : Oscar-Amacende Task Manager
 import json
 import os
-#Import fecha y API
-#pip install "fastapi[standard]"
-#pip imstall sqlalchemy
 from datetime import datetime
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
